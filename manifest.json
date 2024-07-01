@@ -5,84 +5,84 @@
         "name": "Tênis Nike Air Max",
         "brand": "Nike",
         "size": "42",
-        "image": "/imagens/products/air-max.avif"
+        "image": "imagens/products/air-max.avif"
       },
       {
         "id": 2,
         "name": "Tênis Adidas Ultraboost",
         "brand": "Adidas",
         "size": "40",
-        "image": "/imagens/products/ultraboost.avif"
+        "image": "imagens/products/ultraboost.avif"
       },
       {
         "id": 3,
         "name": "Tênis Puma RS-X",
         "brand": "Puma",
         "size": "41",
-        "image": "/imagens/products/puma-rsx.avif"
+        "image": "imagens/products/puma-rsx.avif"
       },
       {
         "id": 4,
         "name": "Tênis New Balance Fresh Foam",
         "brand": "New Balance",
         "size": "39",
-        "image": "/imagens/products/nb_foam.webp"
+        "image": "imagens/products/nb_foam.webp"
       },
       {
         "id": 5,
         "name": "Tênis Adidas Samba",
         "brand": "Nike",
         "size": "38",
-        "image": "/imagens/products/shoe12.png"
+        "image": "imagens/products/shoe12.png"
       },
       {
         "id": 6,
         "name": "Tênis Nike SB Fem",
         "brand": "Puma",
         "size": "41",
-        "image": "/imagens/products/nike_sb_fem.webp"
+        "image": "imagens/products/nike_sb_fem.webp"
       },
       {
         "id": 7,
         "name": "Tênis Anta Kai",
         "brand": "Anta",
         "size": "41",
-        "image": "/imagens/products/kai.png"
+        "image": "imagens/products/kai.png"
       },
       {
         "id": 8,
         "name": "Tênis Adidas Infantil",
         "brand": "New Balance",
         "size": "34",
-        "image": "/imagens/products/adidas_infantil.webp"
+        "image": "imagens/products/adidas_infantil.webp"
       },
       {
         "id": 9,
         "name": "Tênis Adidas Samba",
         "brand": "Nike",
         "size": "42",
-        "image": "/imagens/products/samba2.png"
+        "image": "imagens/products/samba2.png"
       },
       {
         "id": 10,
         "name": "Tênis Adidas Ultraboost",
         "brand": "Adidas",
         "size": "40",
-        "image": "/imagens/products/ultraboost.avif"
+        "image": "imagens/products/ultraboost.avif"
       },
       {
         "id": 11,
         "name": "Tênis Nike SB Fem",
         "brand": "Puma",
         "size": "41",
-        "image": "/imagens/products/nike_sb_fem.webp"
+        "image": "imagens/products/nike_sb_fem.webp"
       },
       {
         "id": 12,
         "name": "Tênis New Balance Fresh Foam",
         "brand": "New Balance",
         "size": "39",
-        "image": "/imagens/products/nb_foam.webp"
+        "image": "imagens/products/nb_foam.webp"
       }
     ]
   }
